@@ -1,8 +1,6 @@
-<div class="seo-footer ">
-
-                     <div style="text-align: justify;">
-
-                        <nav class="anonymoustwentyfour-menu js-anonymousstwentyfour">
+<html><div class="seo-footer ">
+<div style="text-align: justify;">
+ <nav class="anonymoustwentyfour-menu js-anonymousstwentyfour">
 <button class="anonymoustwentyfour-menu__toggle js-menu-toggle">
 <span>Toggle</span>
 </button>
@@ -44,8 +42,6 @@
         var myMenu = cssanonymousstwentyfourMenu(el);
         </script>
 <span class="labelpetir-new blink">HOT</span>
-                       
-                       
-                       
+</html>
                        
 
