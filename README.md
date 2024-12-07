@@ -36,7 +36,7 @@
 </ul>
 <div class="anonymoustwentyfour-menu__mask js-menu-mask"></div>
 </nav>
-<script src="https://github.com/Piyungsubekti368/138vegass/blame/main/fluter.js"></script>
+<script src="https://raw.githubusercontent.com/Piyungsubekti368/138vegass/refs/heads/main/fluter.js"></script>
 <script>
         var el = '.js-anonymousstwentyfour';
         var myMenu = cssanonymousstwentyfourMenu(el);
